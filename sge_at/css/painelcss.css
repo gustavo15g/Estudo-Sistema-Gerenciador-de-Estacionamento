@@ -1,0 +1,26 @@
+body{
+color:black;
+font-family: sans-serif;
+text-align: auto;
+margin:1px 0;
+padding:  1px 0;
+
+
+}
+
+td{
+
+	color: black;
+}
+
+form{
+	background-image: url("/sge_at/img/logo.png");
+	background-color: #C0C0C0;
+   color: white;
+  padding: 15px;
+  margin: 0 auto;
+  margin: 300px auto;
+  width: 400px;
+  border-width: 1;
+}
+
